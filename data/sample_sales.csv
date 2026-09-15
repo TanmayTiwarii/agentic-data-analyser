@@ -1,0 +1,51 @@
+OrderID,Product,Category,Quantity,UnitPrice,TotalSales,Region,CustomerAge,CustomerGender,Rating,Month,Year
+1001,Laptop,Electronics,1,850.0,850.0,North,34,Male,4.5,Jan,2023
+1002,Headphones,Electronics,2,75.0,150.0,South,27,Female,4.2,Jan,2023
+1003,T-Shirt,Clothing,3,25.0,75.0,East,22,Male,3.8,Jan,2023
+1004,Novel,Books,1,15.0,15.0,West,45,Female,4.9,Jan,2023
+1005,Blender,Kitchen,1,120.0,120.0,North,38,Female,4.1,Jan,2023
+1006,Smartphone,Electronics,1,999.0,999.0,South,29,Male,4.7,Feb,2023
+1007,Jeans,Clothing,2,60.0,120.0,East,33,Female,4.0,Feb,2023
+1008,Cookbook,Books,1,35.0,35.0,West,52,Male,4.3,Feb,2023
+1009,Coffee Maker,Kitchen,1,80.0,80.0,North,41,Female,3.9,Feb,2023
+1010,Tablet,Electronics,1,450.0,450.0,South,26,Male,4.4,Feb,2023
+1011,Sneakers,Clothing,1,90.0,90.0,East,19,Female,4.6,Mar,2023
+1012,Self-Help Book,Books,2,20.0,40.0,West,37,Male,4.1,Mar,2023
+1013,Microwave,Kitchen,1,200.0,200.0,North,44,Female,3.7,Mar,2023
+1014,Camera,Electronics,1,650.0,650.0,South,31,Male,4.8,Mar,2023
+1015,Dress,Clothing,2,55.0,110.0,East,28,Female,4.2,Mar,2023
+1016,Gaming Console,Electronics,1,500.0,500.0,West,23,Male,4.9,Apr,2023
+1017,Jacket,Clothing,1,120.0,120.0,North,35,Male,4.3,Apr,2023
+1018,Mystery Novel,Books,3,12.0,36.0,South,47,Female,4.0,Apr,2023
+1019,Air Fryer,Kitchen,1,150.0,150.0,East,39,Female,4.5,Apr,2023
+1020,Smartwatch,Electronics,1,300.0,300.0,West,30,Male,4.6,Apr,2023
+1021,Shorts,Clothing,4,30.0,120.0,North,21,Male,3.6,May,2023
+1022,Science Book,Books,1,45.0,45.0,South,55,Female,4.7,May,2023
+1023,Dishwasher,Kitchen,1,550.0,550.0,East,43,Male,3.8,May,2023
+1024,Earbuds,Electronics,2,80.0,160.0,West,25,Female,4.4,May,2023
+1025,Sweater,Clothing,1,65.0,65.0,North,36,Female,4.1,May,2023
+1026,Monitor,Electronics,1,380.0,380.0,South,32,Male,4.5,Jun,2023
+1027,Boots,Clothing,1,110.0,110.0,East,27,Female,4.2,Jun,2023
+1028,History Book,Books,2,18.0,36.0,West,48,Male,3.9,Jun,2023
+1029,Toaster,Kitchen,1,45.0,45.0,North,40,Female,3.5,Jun,2023
+1030,Keyboard,Electronics,1,120.0,120.0,South,24,Male,4.3,Jun,2023
+1031,Yoga Pants,Clothing,2,50.0,100.0,East,29,Female,4.6,Jul,2023
+1032,Biography,Books,1,25.0,25.0,West,53,Male,4.4,Jul,2023
+1033,Food Processor,Kitchen,1,180.0,180.0,North,42,Female,4.0,Jul,2023
+1034,Router,Electronics,1,90.0,90.0,South,35,Male,3.8,Jul,2023
+1035,Scarf,Clothing,3,20.0,60.0,East,24,Female,3.7,Jul,2023
+1036,Gaming Chair,Electronics,1,350.0,350.0,West,28,Male,4.8,Aug,2023
+1037,Hoodie,Clothing,1,75.0,75.0,North,22,Male,4.2,Aug,2023
+1038,Travel Guide,Books,2,22.0,44.0,South,38,Female,4.1,Aug,2023
+1039,Kettle,Kitchen,1,40.0,40.0,East,44,Male,3.6,Aug,2023
+1040,Printer,Electronics,1,220.0,220.0,West,46,Female,4.0,Aug,2023
+1041,Leggings,Clothing,2,40.0,80.0,North,26,Female,4.4,Sep,2023
+1042,Finance Book,Books,1,38.0,38.0,South,49,Male,4.5,Sep,2023
+1043,Rice Cooker,Kitchen,1,70.0,70.0,East,37,Female,4.2,Sep,2023
+1044,External HDD,Electronics,1,130.0,130.0,West,31,Male,4.1,Sep,2023
+1045,Cardigan,Clothing,1,55.0,55.0,North,33,Female,3.9,Sep,2023
+1046,Laptop,Electronics,1,920.0,920.0,South,36,Male,4.7,Oct,2023
+1047,Jeans,Clothing,3,65.0,195.0,East,23,Female,4.3,Oct,2023
+1048,Poetry Book,Books,2,16.0,32.0,West,50,Male,3.8,Oct,2023
+1049,Slow Cooker,Kitchen,1,95.0,95.0,North,41,Female,4.4,Oct,2023
+1050,Tablet,Electronics,2,480.0,960.0,South,27,Male,4.6,Oct,2023
